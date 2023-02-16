@@ -1,4 +1,4 @@
-type Nullable<T> = T | null;
+type Nullable<T> = T | null
 
 export interface Product {
     id?: number
